@@ -63,5 +63,4 @@ p:first-line {
 
 p:nth-last-of-type(odd) {
   background: lightorange;
-  border-radius: 50%;
 }
