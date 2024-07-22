@@ -58,3 +58,7 @@ p:first-line {
   color: #234d30;
   font-variant: small-caps;
 }
+
+p:nth-last-of-type(odd) {
+  background: red;
+}
