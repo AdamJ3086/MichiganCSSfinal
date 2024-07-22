@@ -59,3 +59,6 @@ p:first-line {
   font-variant: small-caps;
 }
 
+span {
+  font-size: 500%;
+}
