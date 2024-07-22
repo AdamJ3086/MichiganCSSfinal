@@ -62,5 +62,5 @@ p:first-line {
 }
 
 p:nth-last-of-type(odd) {
-  background: orange;
+  background: lightorange;
 }
