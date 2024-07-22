@@ -63,5 +63,5 @@ p:first-line {
 
 p:nth-last-of-type(odd) {
   background: lightorange;
-  opacity: 50%;
+  opacity: 0.3;
 }
