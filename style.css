@@ -59,6 +59,11 @@ p:first-line {
   font-variant: small-caps;
 }
 
+a {
+  font-size: 50%;
+  text-align: left;
+}
+
 div a {
   font-size: 300%;
 }
